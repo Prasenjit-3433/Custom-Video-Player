@@ -10,3 +10,5 @@ Tech Stack: HTML, CSS, Vanilla Js (no framework or SDK).
 * Making `video` element to take `min-width: 800px` & `max-width: 80vw` and on large smart phone (600px or less), `min-width: 0` & `max-width: 90%`.
 * Building UI: controls HTML, show controls on hover.
 * By default, `control-container` has opacity 0 but on hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s. 
+* Building UI: Progress Bar - width, hover
+* A progress-bar consists of two parts: the `progress-range` & the `progress-bar` itself. We used `calc()` CSS function to set width of `progress-range` and added some `animation` on hover as the `thikness` increases!.
