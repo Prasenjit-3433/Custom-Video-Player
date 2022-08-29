@@ -135,7 +135,7 @@ video {
 }
 
 .volume-range {
-  height: 8px;
+  height: 5px;
   width: 100px;
   background: rgba(70, 70, 70, 0.5);
   border-radius: 10px;

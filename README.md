@@ -9,6 +9,7 @@ Tech Stack: HTML, CSS, Vanilla Js (no framework or SDK).
 * `UI COMPONENTS`: [Play Icon](https://fontawesome.com/icons/play?s=solid), video, Mobile responsiveness.
 * Making `video` element to take `min-width: 800px` & `max-width: 80vw` and on large smart phone (600px or less), `min-width: 0` & `max-width: 90%`.
 * On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is ended i.e. when [ended](https://www.w3schools.com/tags/av_event_ended.asp) event fires, `pause-icon` turn into `play-icon`.
+* Also, on the click at different position on Volume Bar, it'll change current volume. To do that, extract `offsetX` & `offsetWidth` value from Volume Bar element and calculate the percentage of `offsetX` in `offsetWidth`, then update `width` of volume-bar & Change `volume-icon` accordingly.
 * `UI COMPONENTS`: controls HTML, show controls on hover.
 * By default, `control-container` has `opacity` 0 but when hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s. 
 * `UI COMPONENTS`: Progress Bar - width-increment, hover-effect.
