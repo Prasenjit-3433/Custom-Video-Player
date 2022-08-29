@@ -11,7 +11,7 @@ Tech Stack: HTML, CSS, Vanilla Js (no framework or SDK).
 * On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is ended i.e. when [ended](https://www.w3schools.com/tags/av_event_ended.asp) event fires, `pause-icon` turn into `play-icon`.
 * `UI COMPONENTS`: controls HTML, show controls on hover.
 * By default, `control-container` has `opacity` 0 but when hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s. 
-* `UI COMPONENTS`: Progress Bar - width, hover
+* `UI COMPONENTS`: Progress Bar - width-increment, hover-effect.
 * A progress-bar consists of two parts: the `progress-range` & the `progress-bar` itself. We used `calc()` CSS function to set width of `progress-range` and added some `animation` on hover as the `thikness` increases!.
-* On the fire of [canPlay](https://www.w3schools.com/tags/av_event_canplay.asp), [timeupdate](https://www.w3schools.com/tags/av_event_timeupdate.asp) events, the values of these properties `currentTime`, `duration` extracted from `video` element and calculated percentage of `currentTime` in `duration` & set it as `width` of Progress-Bar. 
+* On the fire of [canPlay](https://www.w3schools.com/tags/av_event_canplay.asp), [timeupdate](https://www.w3schools.com/tags/av_event_timeupdate.asp) events, the values of these properties `currentTime`, `duration` extracted from `video` element and calculated percentage of `currentTime` in `duration` & set it as `width` of Progress-Bar. Followed by `time-elapsed`, `total-duration` update.
 * `UI COMPONENTS`: Playback Speed Dropdown.
