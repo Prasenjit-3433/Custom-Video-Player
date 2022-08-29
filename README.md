@@ -5,7 +5,7 @@ Tech Stack: HTML, CSS, Vanilla Js (no framework or SDK).
 
 Screenshots:
 
-![](Custom%20Video%20Player.mp4)
+![](Custom%20Video%20Player.gif)
 
 
 
