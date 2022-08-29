@@ -47,6 +47,13 @@ function updateProgress() {
     durationElement.textContent = displayTime(duration);
 }
 
+// Click to seek within the video
+function setProgress(event) {
+    const newTime = event.offsetX / progressRange.offsetWidth;
+    // Change of `currentTime` triggers `timeupdate` event that updates rest of everything:
+    video.currentTime = newTime * video.duration;
+}
+
 // Volume Controls --------------------------- //
 
 
@@ -63,3 +70,4 @@ playBtn.addEventListener('click', togglePlay);
 video.addEventListener('click', togglePlay);
 video.addEventListener('canplay', updateProgress);
 video.addEventListener('timeupdate', updateProgress);
+progressRange.addEventListener('click', setProgress);
