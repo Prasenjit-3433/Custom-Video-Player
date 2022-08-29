@@ -1,4 +1,4 @@
-# Custom-Video-Player
+# Custom-Video-Player  [[Link]](https://videoplayerinjs.netlify.app/)
 A modern looking video player feat. HTML5 Video API
 
 Tech Stack: HTML, CSS, Vanilla Js (no framework or SDK).
