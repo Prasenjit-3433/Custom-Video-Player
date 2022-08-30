@@ -188,10 +188,9 @@ _To see in action, please visit to the [Link](https://videoplayerinjs.netlify.ap
 <!-- ROADMAP -->
 ## 💎 Features
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Plays anything: Plays “traditional” file formats such as MP4 and WebM, but also supports adaptive streaming formats such as HLS and DASH. There’s even a special UI for live streams!
+- [ ] Easy to style: Designed to be a reliable and consistent base to build on top of. The player looks great out of the box, but can be easily styled with a little bit of extra CSS.
+- [ ] Supported everywhere: Your video should work everywhere your app does. The team makes an effort to support every modern browser we can, including desktop and mobile.
 
 See the [open issues](https://github.com/Prasenjit-3433/Custom-Video-Player/issues) for a full list of proposed features (and known issues).
 
