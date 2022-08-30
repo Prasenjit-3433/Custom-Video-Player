@@ -108,7 +108,7 @@ Flash-based players have become less popular now and HTML5 video players have be
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🚀 Getting Started
 
 This is an example of how you may start on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
