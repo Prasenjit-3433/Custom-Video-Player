@@ -69,7 +69,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#implementation">Implementation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -132,9 +132,19 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Implementation
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* First of all, we added an SVG as a hero image because an svg can scale upto any size according as the size of the viewport.
+* Then added a video element with attribute `playsinline` which gonna prevent the video to be played in full screen mode by default on mobile views.
+* <details>
+<summary>UI COMPONENTS</summary>
+<ol>
+<li>[Play Icon](https://fontawesome.com/icons/play?s=solid), Video, Mobile Responsiveness.</li>
+<li>Controls HTML, Show controls on hover.</li>
+<li>Progress Bar - width-increment, hover-effect.</li>
+<li>Playback Speed Dropdown.</li>
+</ol>
+</details>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
