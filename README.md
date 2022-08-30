@@ -258,7 +258,7 @@ Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://gi
 [issues-shield]: https://img.shields.io/github/issues/Prasenjit-3433/Custom-Video-Player.svg?style=for-the-badge
 [issues-url]: https://github.com/Prasenjit-3433/Custom-Video-Player/issues
 [license-shield]: https://img.shields.io/github/license/Prasenjit-3433/Custom-Video-Player.svg?style=for-the-badge
-[license-url]: 
+[license-url]: https://github.com/Prasenjit-3433/Custom-Video-Player/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: 
 [product-screenshot]: images/screenshot.png
