@@ -142,9 +142,11 @@ This is an example of how to list things you need to use the software and how to
 <li>
     <details>
       <summary>Play Icon, Video, Mobile Responsiveness.</summary>
-      * Making `video` element to take `min-width: 800px` & `max-width: 80vw` and on large smart phone (600px or less), `min-width: 0` & `max-width: 90%`.
-      * On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is           ended i.e. when [ended](https://www.w3schools.com/tags/av_event_ended.asp) event fires, `pause-icon` turn into `play-icon`.
-      * Also, on the click at different position on Volume Bar, it'll change current volume. To do that, extract `offsetX` & `offsetWidth` value from Volume Bar      element and calculate the percentage of `offsetX` in `offsetWidth`, then update `width` of volume-bar & Change `volume-icon` accordingly.
+      <ul>
+        <li>Making `video` element to take `min-width: 800px` & `max-width: 80vw` and on large smart phone (600px or less), `min-width: 0` & `max-width: 90%`.</li>
+        <li>On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is ended i.e. when [ended](https://www.w3schools.com/tags/av_event_ended.asp) event fires, `pause-icon` turn into `play-icon`.</li>
+        <li>Also, on the click at different position on Volume Bar, it'll change current volume. To do that, extract `offsetX` & `offsetWidth` value from Volume Bar element and calculate the percentage of `offsetX` in `offsetWidth`, then update `width` of volume-bar & Change `volume-icon` accordingly.</li>
+      </ul>
     </details>
   </li>
   </li>
