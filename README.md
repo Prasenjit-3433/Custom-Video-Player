@@ -137,7 +137,7 @@ This is an example of how to list things you need to use the software and how to
 * First of all, we added an SVG as a hero image because an svg can scale upto any size according as the size of the viewport.
 * Then added a video element with attribute `playsinline` which gonna prevent the video to be played in full screen mode by default on mobile views.
 <details>
-<summary>Ui Components</summary>
+<summary>Ui Components:</summary>
 <ol>
 <li>
     <details>
