@@ -144,7 +144,7 @@ This is an example of how to list things you need to use the software and how to
       <summary>Play Icon, Video, Mobile Responsiveness.</summary>
       <ul>
         <li>Making `video` element to take `min-width: 800px` & `max-width: 80vw` and on large smart phone (600px or less), `min-width: 0` & `max-width: 90%`.</li>
-        <li>On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is ended i.e. when [ended](https://www.w3schools.com/tags/av_event_ended.asp) event fires, `pause-icon` turn into `play-icon`.</li>
+        <li>On the click on `play-icon` or on the video, the video starts playing and `play-icon` turn into `pause-icon` & vice-versa. Also, when the current playlist is ended i.e. when `ended` event fires, `pause-icon` turn into `play-icon`.</li>
         <li>Also, on the click at different position on Volume Bar, it'll change current volume. To do that, extract `offsetX` & `offsetWidth` value from Volume Bar element and calculate the percentage of `offsetX` in `offsetWidth`, then update `width` of volume-bar & Change `volume-icon` accordingly.</li>
       </ul>
     </details>
@@ -154,13 +154,18 @@ This is an example of how to list things you need to use the software and how to
     <details>
       <summary>Controls HTML, Show controls on hover</summary>
       <ul>
-        <li>By default, `control-container` has `opacity` 0 but when hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s</li>
+        <li>By default, `control-container` has `opacity` 0 but when hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s.</li>
       </ul>
     </details>
     </li>
   <li>
     <details>
       <summary>Progress Bar - width-increment, hover-effect</summary>
+      <ul>
+        <li>A progress-bar consists of two parts: the `progress-range` & the `progress-bar` itself. We used `calc()` CSS function to set width of `progress-range` and added some `animation` on hover as the `thikness` increases!.</li>
+        <li> On the fire of `canPlay`, `timeupdate` events, the values of these properties `currentTime`, `duration` extracted from `video` element and calculated percentage of `currentTime` in `duration` & set it as `width` of Progress-Bar. Followed by `time-elapsed`, `total-duration` update.</li>
+        <li>Also, on the click at different position on progress bar, it'll change current playback position. To do that, extract `offsetX` & `offsetWidth` value from Progress Bar element and calculate the percentage of `offsetX` in `offsetWidth`along `duration`, then update `width` of progress-bar, `time-elapsed`, `total-duration` etc.</li>
+      </ul>
     </details>
   </li>
   <li>
