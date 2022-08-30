@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](demo.gif)
+![Screenshot](demo.gif)
 
 When looking for an online video player for your website, you might hear the names YouTube and Vimeo before any else. That’s because these are quick, easy, and free options readily available to you. However, if you want more control over your video assets, how they are displayed, and want to learn how users interact with your content and engage with it, you might need a private HTML5 video player.
 
@@ -97,9 +97,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* ![HTML](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)(https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-* ![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=CSS3&logoColor=white)(https://developer.mozilla.org/en-US/docs/Web/CSS)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330)(https://www.javascript.com/)
+* ![HTML](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=CSS3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
