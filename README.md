@@ -217,7 +217,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## 📜 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -226,7 +226,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 📮 Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - prasenjitsutradhar3433@gmail.com
 
