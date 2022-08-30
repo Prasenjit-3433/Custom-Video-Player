@@ -97,9 +97,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* ![HTML](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
-* [![CSS][Css]][Css-url]
-* [![JavaScript][Js]][Js-url]
+* ![HTML](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)(https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+* ![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=CSS3&logoColor=white)(https://developer.mozilla.org/en-US/docs/Web/CSS)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330)(https://www.javascript.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
