@@ -137,9 +137,14 @@ This is an example of how to list things you need to use the software and how to
 * First of all, we added an SVG as a hero image because an svg can scale upto any size according as the size of the viewport.
 * Then added a video element with attribute `playsinline` which gonna prevent the video to be played in full screen mode by default on mobile views.
 <details>
-<summary>UI COMPONENTS</summary>
+<summary>Ui Components</summary>
 <ol>
-<li>[Play Icon](https://fontawesome.com/icons/play?s=solid), Video, Mobile Responsiveness.</li>
+<li>
+  <details>
+    <summary>[Play Icon](https://fontawesome.com/icons/play?s=solid), Video, Mobile Responsiveness
+    </summary>
+  </details>
+</li>
 <li>Controls HTML, Show controls on hover.</li>
 <li>Progress Bar - width-increment, hover-effect.</li>
 <li>Playback Speed Dropdown.</li>
