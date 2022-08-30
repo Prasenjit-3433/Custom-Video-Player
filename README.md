@@ -239,9 +239,9 @@ Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://gi
 <!-- ACKNOWLEDGMENTS -->
 ## ✌️ Acknowledgments
 
-* [fontawesome.com](https://fontawesome.com/)
-* [Free Videos](https://pixabay.com/videos/)
-* [SVG Background](https://heropatterns.com/)
+* [Fontawesome](https://fontawesome.com/)
+* [Pixabay.com -- Free Videos](https://pixabay.com/videos/)
+* [Heropatterns - SVG Background](https://heropatterns.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
