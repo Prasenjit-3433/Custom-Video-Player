@@ -228,7 +228,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@gmail.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - prasenjitsutradhar3433@gmail.com
 
 Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://github.com/Prasenjit-3433/Custom-Video-Player)
 
