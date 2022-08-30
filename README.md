@@ -91,9 +91,7 @@
 
 When looking for an online video player for your website, you might hear the names YouTube and Vimeo before any else. That’s because these are quick, easy, and free options readily available to you. However, if you want more control over your video assets, how they are displayed, and want to learn how users interact with your content and engage with it, you might need a private HTML5 video player.
 
-Flash-based players have become less popular now and HTML5 video players have become the new industry standard. For facilitating seamless integration on your website, this is suggested best online video player for you!.
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Prasenjit-3433`, `Custom-Video-Player`, `twitter_handle`, `linkedin_username`, `gmail`, `email`, `project_title`, `project_description`
+Flash-based players have become less popular now and HTML5 video players have become the new industry standard. For facilitating seamless integration on your website, this is suggested best online video player for you! :smile:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
