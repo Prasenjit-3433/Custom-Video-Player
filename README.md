@@ -97,7 +97,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![HTML][HTML5]][HTML-url]
+* [![HTML][https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white]][HTML-url]
 * [![CSS][Css]][Css-url]
 * [![JavaScript][Js]][Js-url]
 
