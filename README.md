@@ -70,7 +70,7 @@
       </ul>
     </li>
     <li><a href="#implementation">Implementation</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#feature">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -186,7 +186,7 @@ _To see in action, please visit to the [Link](https://videoplayerinjs.netlify.ap
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 💎 Features
 
 - [ ] Feature 1
 - [ ] Feature 2
