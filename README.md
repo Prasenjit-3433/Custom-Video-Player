@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Prasenjit-3433/Custom-Video-Player">
-    <img src="favicon.png" alt="Logo" width="80" height="80">
+    <img src="player.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Custom Video Player</h3>
@@ -59,7 +59,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Tech Stack</a></li>
       </ul>
     </li>
     <li>
@@ -108,32 +108,21 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how you may start on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Live Server Extension
+  ![Live-Server](Screenshot%202022-08-30%20133644.png)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Prasenjit-3433/Custom-Video-Player.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. First of all install `Live Server` extension by `Ritwick Dey`.
+2. Once the extension was installed, then `right-click` on `index.html` and select `Open with Live Server`.
+3. It'll open a new tab in browser & start serving the video player. Enjoy!.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
