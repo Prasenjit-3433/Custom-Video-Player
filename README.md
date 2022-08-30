@@ -140,14 +140,26 @@ This is an example of how to list things you need to use the software and how to
 <summary>Ui Components</summary>
 <ol>
 <li>
+    <details>
+      <summary>Play Icon, Video, Mobile Responsiveness.</summary>
+    </details>
+  </li>
+  </li>
+  <li>
+    <details>
+      <summary>Controls HTML, Show controls on hover</summary>
+    </details>
+    </li>
+  <li>
+    <details>
+      <summary>Progress Bar - width-increment, hover-effect</summary>
+    </details>
+  </li>
+  <li>
   <details>
-    <summary>[Play Icon](https://fontawesome.com/icons/play?s=solid), Video, Mobile Responsiveness
-    </summary>
-  </details>
-</li>
-<li>Controls HTML, Show controls on hover.</li>
-<li>Progress Bar - width-increment, hover-effect.</li>
-<li>Playback Speed Dropdown.</li>
+      <summary>Playback Speed Dropdown</summary>
+    </details>
+  </li>
 </ol>
 </details>
 
