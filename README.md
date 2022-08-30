@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 🙋 About The Project
 
  ![Screenshot](demo.gif)
 
@@ -199,7 +199,7 @@ See the [open issues](https://github.com/Prasenjit-3433/Custom-Video-Player/issu
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
