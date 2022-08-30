@@ -83,7 +83,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](demo.gif)
+
+<div align="center">
+  ![Screenshot](demo.gif)
+</div>
+
 
 
 
