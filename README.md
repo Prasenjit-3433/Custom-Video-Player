@@ -153,6 +153,9 @@ This is an example of how to list things you need to use the software and how to
   <li>
     <details>
       <summary>Controls HTML, Show controls on hover</summary>
+      <ul>
+        <li>By default, `control-container` has `opacity` 0 but when hover over it, it'll get opacity of 1 and added animation of style `ease-out` with delay of 2s</li>
+      </ul>
     </details>
     </li>
   <li>
