@@ -171,6 +171,9 @@ This is an example of how to list things you need to use the software and how to
   <li>
   <details>
       <summary>Playback Speed Dropdown</summary>
+    <ul>
+        <li>On change of playback speed, the `change` event fires on `select` element and then `playbackRate` property on video element is set to selected value of Playback Speed Dropdown.</li>
+      </ul>
     </details>
   </li>
 </ol>
