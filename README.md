@@ -228,7 +228,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## 📮 Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - prasenjitsutradhar3433@gmail.com
+Prasenjit Sutradhar - [@twitter_handle](https://twitter.com/twitter_handle) - prasenjitsutradhar3433@gmail.com
 
 Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://github.com/Prasenjit-3433/Custom-Video-Player)
 
@@ -237,11 +237,11 @@ Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://gi
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## ✌️ Acknowledgments
 
-* []()
-* []()
-* []()
+* [fontawesome.com](https://fontawesome.com/)
+* [Free Videos](https://pixabay.com/videos/)
+* [SVG Background](https://heropatterns.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
