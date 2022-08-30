@@ -179,7 +179,7 @@ This is an example of how to list things you need to use the software and how to
 </ol>
 </details>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_To see in action, please visit to the [Link](https://videoplayerinjs.netlify.app/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
