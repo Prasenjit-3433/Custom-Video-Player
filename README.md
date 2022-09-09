@@ -57,24 +57,24 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#-about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Tech Stack</a></li>
+        <li><a href="#-built-with">Tech Stack</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#-getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#implementation">Implementation</a></li>
-    <li><a href="#feature">Features</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#%EF%B8%8F-implementation">Implementation</a></li>
+    <li><a href="#-features">Features</a></li>
+    <li><a href="#-contributing">Contributing</a></li>
+    <li><a href="#-license">License</a></li>
+    <li><a href="#-contact">Contact</a></li>
+    <li><a href="#%EF%B8%8F-references">References</a></li>
   </ol>
 </details>
 
@@ -238,8 +238,8 @@ Project Link: [https://github.com/Prasenjit-3433/Custom-Video-Player](https://gi
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## ✌️ Acknowledgments
+<!-- references -->
+## ✌️ References
 
 * [Fontawesome](https://fontawesome.com/)
 * [Pixabay.com -- Free Videos](https://pixabay.com/videos/)
